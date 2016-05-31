@@ -1,4 +1,4 @@
-# 2016Plan
+#2016Plan
 
 TODO List:
 
@@ -14,3 +14,4 @@ TODO List:
 
 6.加强wrapper能力
 
+7.每月2个控件的源码研读
