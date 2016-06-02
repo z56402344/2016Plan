@@ -18,3 +18,18 @@ TODO List:
 
 8.MVP 研读
 
+技术书籍：
+《算法》（第四版）
+《Android源码》
+重读：
+《Think in java 》
+《Effective java 》
+
+商业书籍：
+《创业维艰》
+《从0到1》
+《参与感》
+
+
+
+《》
