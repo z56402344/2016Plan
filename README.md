@@ -2,7 +2,7 @@
 
 TODO List:
 
-1.gradle配置
+1.gradle
 
 2.okHttp源码
 
@@ -10,7 +10,7 @@ TODO List:
 
 4.Retrofit
 
-5.JAVA高阶API研读
+5.EventBus源码
 
 6.加强wrapper能力
 
@@ -32,4 +32,3 @@ TODO List:
 
 
 
-《》
